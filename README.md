@@ -1,3 +1,3 @@
 # Bamazon
 
-Ninth assignment on creaing Bamazon using MySQL.
+Ninth assignment on creating Bamazon using MySQL.
